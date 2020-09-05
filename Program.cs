@@ -9,7 +9,7 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-            string ver = "ver2";
+            string ver = "ver2-1";
         }
     }
 }
